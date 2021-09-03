@@ -1,1 +1,1 @@
-G
+Giới thiệu DeepLearning cơ bản

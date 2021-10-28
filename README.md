@@ -1,1 +1,1 @@
-Giới thiệu DeepLearning cơ bản
+Bài tập Deep-Learning
